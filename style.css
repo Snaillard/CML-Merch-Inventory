@@ -1,0 +1,11 @@
+body{
+    background: rgb(0, 166, 255);
+}
+
+*{
+    color: white;
+}
+
+#Update{
+    display: none;
+}
